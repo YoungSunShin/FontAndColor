@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontAndColor", "FontAndColor\FontAndColor.csproj", "{628605F2-9B77-4916-BD20-994AADDA052C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628605F2-9B77-4916-BD20-994AADDA052C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628605F2-9B77-4916-BD20-994AADDA052C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628605F2-9B77-4916-BD20-994AADDA052C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628605F2-9B77-4916-BD20-994AADDA052C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA7731F-602A-4DE1-B15F-81042804FEC8}
+	EndGlobalSection
+EndGlobal
